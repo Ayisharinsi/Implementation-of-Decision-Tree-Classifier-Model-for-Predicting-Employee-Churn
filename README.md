@@ -66,9 +66,7 @@ Accuracy:
 ![image](https://github.com/user-attachments/assets/647f1a7d-3f2c-499e-a797-cca2a039e7ba)
 
 Predicted value:
-
-![image](https://github.com/user-attachments/assets/782905b0-6429-4aee-9a4d-ad304ff20cf1)
-
+![image](https://github.com/user-attachments/assets/a2536533-a362-48a5-82fc-7b91d9a1ebf3)
 
 
 ## Result:
